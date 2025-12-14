@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual
+venvQuake/
+venvQuake/
+
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Ignorar os arquivos KML gerados (são dados temporários)
+pins/
+*.kml
+
+# Ignorar configurações do VS Code (opcional)
+.vscode/
+
